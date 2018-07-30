@@ -1,0 +1,14 @@
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.deps.json
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.json
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\bin\Debug\netcoreapp2.1\BooksApi.pdb
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cs
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfoInputs.cache
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.AssemblyInfo.cs
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.dll
+C:\Users\George Bentes\Documents\CSharpLessons\BooksApi\obj\Debug\netcoreapp2.1\BooksApi.pdb
